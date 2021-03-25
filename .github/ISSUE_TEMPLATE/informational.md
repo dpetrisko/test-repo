@@ -3,7 +3,7 @@ name: Informational
 about: BlackParrot documentation is unclear about this.
 title: ''
 labels: unassigned
-assignees: ''
+assignees: black-parrot
 
 ---
 

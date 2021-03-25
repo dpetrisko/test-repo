@@ -3,7 +3,7 @@ name: Feature Request
 about: I would like BlackParrot to do this.
 title: ''
 labels: unassigned
-assignees: ''
+assignees: black-parrot
 
 ---
 

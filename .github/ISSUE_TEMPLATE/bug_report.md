@@ -3,7 +3,7 @@ name: Bug Report
 about: Something looks incorrect to me.
 title: ''
 labels: unassigned
-assignees: ''
+assignees: black-parrot
 
 ---
 
