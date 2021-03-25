@@ -1,8 +1,14 @@
 ---
 name: Informational
 about: BlackParrot documentation is unclear about this.
+title: ''
+labels: unassigned
+assignees: ''
 
 ---
+
+## Branch / Commit Hash
+What version of BlackParrot are you running?
 
 ## Area
 Module/tool/makefile/script in question.

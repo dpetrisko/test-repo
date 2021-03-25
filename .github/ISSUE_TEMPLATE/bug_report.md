@@ -1,8 +1,14 @@
 ---
 name: Bug Report
 about: Something looks incorrect to me.
+title: ''
+labels: unassigned
+assignees: ''
 
 ---
+
+## Branch / Commit Hash
+What version of BlackParrot are you running?
 
 ## Area
 Module/tool/makefile/script in question.

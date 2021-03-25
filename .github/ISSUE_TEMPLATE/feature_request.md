@@ -1,8 +1,14 @@
 ---
 name: Feature Request
 about: I would like BlackParrot to do this.
+title: ''
+labels: unassigned
+assignees: ''
 
 ---
+
+## Branch / Commit Hash
+What version of BlackParrot are you running?
 
 ## Area
 Module/tool/makefile/script in question.
