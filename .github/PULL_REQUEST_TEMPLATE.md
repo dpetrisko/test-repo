@@ -1,4 +1,5 @@
-Thanks for contributing to BlackParrot! A few details to check:
+Thanks for contributing to BlackParrot! Check out the CONTRIBUTING guide, if this is your first
+time. A few details to check:
 
 ## Issue Fixed
 Does this PR address a BlackParrot GitHub issue? Link it here:
