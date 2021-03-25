@@ -1,18 +1,18 @@
 ---
 name: Informational
-about: I don't understand this.
+about: BlackParrot documentation is unclear about this.
 
 ---
 
-**Area:**
+## Area
 Module/tool/makefile/script in question.
 
-**Background information gathered:**
+## Background information gathered
 A clear and concise description of what you already know.
 
-**Question**
-A clear and concise description of what you don't understand.
+## Question
+A clear and concise description of what is unclear.
 
-**Additional context**
+## Additional context
 Add any other context about the question here.
 Logs, screenshots or videos that relate to the question are very helpful.

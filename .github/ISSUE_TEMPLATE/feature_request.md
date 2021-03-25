@@ -4,25 +4,25 @@ about: I would like BlackParrot to do this.
 
 ---
 
-**Area:**
+## Area
 Module/tool/makefile/script in question.
 
-**Current behavior:**
+## Current behavior
 A clear and concise description of what is happening.
 
-**Desired behavior:**
+## Desired behavior
 A clear and concise description of what you want to happen.
 
-**Proposed solution:**
+## Proposed solution
 Potential solution(s) including scope of work and affected modules.
 
-**Analysis:**
+## Analysis
 Potential impact of the feature.
 
-**Verification:**
+## Verification
 Steps to verify the feature.
 
-**Additional context:**
+## Additional context
 Add any other context about the feature request here.
 Logs, screenshots or videos that relate to the feature request are very helpful.
 
