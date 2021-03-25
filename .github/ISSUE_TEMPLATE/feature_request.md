@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Feature Request
 about: I would like BlackParrot to do this.
 
 ---
