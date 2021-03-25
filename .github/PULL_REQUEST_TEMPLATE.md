@@ -1,17 +1,24 @@
----
-name: Documentation Fix
-about: Fixes to documentation or minor renaming changes
+Thanks for contributing to BlackParrot! A few details to check:
 
----
+## Issue Fixed
+Does this PR address a BlackParrot GitHub issue? Link it here:
 
-# Area
+## Area
 Module/tool/makefile/script in question.
 
-# Reasoning (outdated, confusing, verbose, etc.)
+## Reasoning (outdated, confusing, verbose, etc.)
 Why is this change required?
 
-# Additional Changes Required (if any)
+## Additional Changes Required (if any)
 Next steps, downstream modules affected, etc.
 
-# Additional Context
+## Analysis
+Potential impact of the change.
+
+## Verification
+Steps to taken to verify the change.
+
+## Additional Context
 Add any other context about the problem here.
+Logs, screenshots or videos that show the issue are very helpful.
+
