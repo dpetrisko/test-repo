@@ -2,12 +2,12 @@ Thanks for contributing to BlackParrot! Check out the CONTRIBUTING guide, if thi
 time. A few details to check:
 
 ## Issue Fixed
-Does this PR address a BlackParrot GitHub issue? Link it here:
+Does this PR address a BlackParrot GitHub issue? Link it here.
 
 ## Area
 Module/tool/makefile/script in question.
 
-## Reasoning (outdated, confusing, verbose, etc.)
+## Reasoning (buggy, confusing, verbose, etc.)
 Why is this change required?
 
 ## Additional Changes Required (if any)
